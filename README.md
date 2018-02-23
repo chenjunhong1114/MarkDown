@@ -16,6 +16,7 @@
 - 外部链接：[百度]
 - 外部链接：[百度][baidu]
 - 内部链接，链接本文档的其他部分:[列表]
+<!---一下是要用到的链接 --->
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
 [列表]:README.md#列表
