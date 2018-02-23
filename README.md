@@ -28,11 +28,11 @@ gitHub于2008年4月10日正式上线，除了git代码仓库托管及基本的 
 
 ## 图片
 - 图片的MarkDown语法  
-  - 外部图片
+  - 外部图片  
 ![baidu](http://fanyi.bdstatic.com/static/translation/img/header/logo_cbfea26.png "百度翻译")
-  - 内部图片
+  - 内部图片  
 ![](images/卡西欧.jpg)
-  - 图片引用式链接
+  - 图片引用式链接  
  ![][kaxiou]  
  
 ## 引用
