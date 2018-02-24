@@ -1,6 +1,6 @@
-#demo3
+# demo3
 
-##水平分隔线
+## 水平分隔线
 
 	<hr>horizontal rule
  	
